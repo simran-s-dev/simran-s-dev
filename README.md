@@ -1,34 +1,36 @@
 # 💫 Hi 👋, I'm Simranjeet Kaur
 🎓 B.Tech in Computer Science and Engineering (CSE) | 2023–2027  
 
-🚀 Exploring full-stack development & AI  
-🌈 Creating beautiful UIs & solving bugs that disappear when you hit `print()`  
-🧠 Blending logic + creativity = my happy zone  
+🚀 Crafting code, interfaces, and intelligent solutions 
+🌈 Designing clean, intuitive UIs & debugging with patience (and `print()` 😉)  
+🧠 Where logic meets creativity — my happy coding zone
 
 ---
 
-## 🧩 A little more about me:
+## 🧩 About me:
 
-- 💡 I love making interfaces that feel *just right*.  
-- 🤖 Currently exploring Generative AI and LLMs.  
-- 🔄 Refactoring code and my to-do list — constantly.  
-- 🧪 Always building, always learning.  
+- 💡 I love designing UIs that feel smooth and intuitive.  
+- 🤖 Exploring full-stack development, Generative AI, and LLMs.  
+- 🔄 Constantly refactoring code — and my to-do list.  
+- 🧪 Always experimenting, building projects, and learning new tech.  
+- 🧠 Combining logic and creativity is my happy zone.  
+  
 
 ---
 
-## 💬 Dev Quotes I Live By
+## 💬 Thoughts While Coding
+> “Code + Creativity = Magic.”
+> “Optimize later; make it work now.”
+> “Your first solution is never the last.”
 
-> “First, solve the problem. Then, write the tests.”  
-> “Good code is its own best documentation.”  
-> “It's not a bug, it's an undocumented feature.”  
-> “Stack Overflow isn’t cheating — it’s pair programming with the world.”  
 
 ---
 
 ## 🌐 Socials  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simran-s-dev)  
-[![Email](https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simranjeet@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranjeet-kaur-bb1583288/)  
+[![Email](https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simran.s.dev@gmail.com)  
+
 
 ---
 
@@ -74,13 +76,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=simran-s-dev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20" />  
-</div>  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -88,7 +83,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=simran-s-dev&show_icons=true&theme=radical&border_radius=15&hide_border=false" width="48%" />  
 <img src="https://streak-stats.demolab.com?user=simran-s-dev&theme=radical&hide_border=false&border_radius=15" width="48%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-s-dev&layout=compact&theme=radical&hide_border=false&border_radius=15" width="48%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-s-dev&layout=compact&theme=radical&hide_border=false&border_radius=15" width="48%" /> 
+
+---
+
+## 🏆 GitHub Trophies  
+
+<div align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-s-dev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20" />  
+</div>  
+
 
 </div>  
 
