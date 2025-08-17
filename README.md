@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Simranjeet Kaur
 🎓 B.Tech in Computer Science and Engineering (CSE) | 2023–2027  
 
-🚀 Crafting code, interfaces, and intelligent solutions 
-🌈 Designing clean, intuitive UIs & debugging with patience (and `print()` 😉)  
-🧠 Where logic meets creativity — my happy coding zone
+🚀 Crafting code, interfaces, and intelligent solutions.
+🌈 Designing clean, intuitive UIs & debugging with patience (and `print()` 😉). 
+🧠 Where logic meets creativity — my happy coding zone.
 
 ---
 
