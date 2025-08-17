@@ -59,7 +59,6 @@
 <br clear="both">
 
 <!-- 🐍 Snake animation -->
-![GitHub Snake Light](https://simran-s-dev.github.io/<repo-name>/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://simran-s-dev.github.io/<repo-name>/snake.svg#gh-dark-mode-only)
-
+![GitHub Snake Light](https://raw.githubusercontent.com/simran-s-dev/simran-s-dev/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/simran-s-dev/simran-s-dev/output/snake.svg#gh-dark-mode-only)
 
