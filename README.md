@@ -1,64 +1,90 @@
-<h2 align="left">Hi 👋! I'm Simran, a passionate developer 🚀</h2>
+# 💫 Hi 👋, I'm Simranjeet Kaur
+🎓 B.Tech in Computer Science and Engineering (CSE) | 2023–2027  
 
-###
+🚀 Exploring full-stack development & AI  
+🌈 Creating beautiful UIs & solving bugs that disappear when you hit `print()`  
+🧠 Blending logic + creativity = my happy zone  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran-s-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran-s-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+---
 
-###
+## 🧩 A little more about me:
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
+- 💡 I love making interfaces that feel *just right*.  
+- 🤖 Currently exploring Generative AI and LLMs.  
+- 🔄 Refactoring code and my to-do list — constantly.  
+- 🧪 Always building, always learning.  
 
-###
+---
 
-<h3>🛠 Tech Stack</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-</div>
+## 💬 Dev Quotes I Live By
 
-###
+> “First, solve the problem. Then, write the tests.”  
+> “Good code is its own best documentation.”  
+> “It's not a bug, it's an undocumented feature.”  
+> “Stack Overflow isn’t cheating — it’s pair programming with the world.”  
 
-<h3>🌐 Connect with me</h3>
-<div align="left">
-  <a href="https://youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://twitch.tv/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
+---
 
-###
+## 🌐 Socials  
 
-<br clear="both">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simran-s-dev)  
+[![Email](https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simranjeet@example.com)  
 
-<!-- 🐍 Snake animation -->
-![GitHub Snake Light](https://raw.githubusercontent.com/simran-s-dev/simran-s-dev/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/simran-s-dev/simran-s-dev/output/snake.svg#gh-dark-mode-only)
+---
 
+## 💻 Tech Stack  
+
+![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/C-00BCD4?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![DaisyUI](https://img.shields.io/badge/DaisyUI-bc4ed8?style=for-the-badge&logo=daisyui&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![React Router](https://img.shields.io/badge/Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express&logoColor=white)  
+![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-0c344b?style=for-the-badge&logo=prisma&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
+---
+
+## 🐍 Snake Eating My Contribution Graph  
+
+<div align="center">  
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />  
+</div>  
+
+---
+
+## 🏆 GitHub Trophies  
+
+<div align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=simran-s-dev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20" />  
+</div>  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">  
+
+<img src="https://github-readme-stats.vercel.app/api?username=simran-s-dev&show_icons=true&theme=radical&border_radius=15&hide_border=false" width="48%" />  
+<img src="https://streak-stats.demolab.com?user=simran-s-dev&theme=radical&hide_border=false&border_radius=15" width="48%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-s-dev&layout=compact&theme=radical&hide_border=false&border_radius=15" width="48%" />  
+
+</div>  
+
+---
+
+## 🪄 Motto I Live By:  
+
+### **"Build it. Break it. Fix it. Repeat. 🔁"**  
