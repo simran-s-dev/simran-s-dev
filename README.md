@@ -19,9 +19,9 @@
 ---
 
 ## 💬 Thoughts While Coding
-> “Code + Creativity = Magic.”
-> “Optimize later; make it work now.”
-> “Your first solution is never the last.”
+- “Code + Creativity = Magic.”
+- “Optimize later; make it work now.”
+- “Your first solution is never the last.”
 
 
 ---
@@ -43,10 +43,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -63,8 +59,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-
-
 
 ---
 
@@ -98,6 +92,6 @@
 
 ---
 
-## 🪄 Motto I Live By:  
+## 🎨 My Creative Coding Motto
 
-### **"Build it. Break it. Fix it. Repeat. 🔁"**  
+### **"Think, Design, Code, Refine. 🎨"**  
