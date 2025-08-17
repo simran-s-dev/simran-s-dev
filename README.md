@@ -60,5 +60,8 @@
 
 <!-- 🐍 Snake animation -->
 ![Snake animation](https://github.com/simran-s-dev/simran-s-dev/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake Light](https://raw.githubusercontent.com/simran-s-dev/simran-s-dev/output/snake.svg)
+
+![GitHub Snake Light](https://raw.githubusercontent.com/simran-s-dev/simran-s-dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/simran-s-dev/simran-s-dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
